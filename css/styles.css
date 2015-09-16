@@ -225,6 +225,20 @@ section {
   font-weight: normal;
 }
 
+a.orange:link {
+  color: #fd8032;
+}
+
+a.orange:visited {
+  color: #fd8032;
+}
+
+.btn-orange {
+  background-color: #fd8032;
+  border-color: #fd8032;
+  color: white;
+}
+
 /* --------------- */
 
 /* desert scheme ported from vim to google prettify */
@@ -261,3 +275,4 @@ li.L1,li.L3,li.L5,li.L7,li.L9 { }
   pre .atn, code .atn { color: #404 }
   pre .atv, code .atv { color: #060 }
 }
+
